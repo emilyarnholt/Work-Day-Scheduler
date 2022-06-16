@@ -90,4 +90,5 @@ textarea{
 textarea {
   min-height: 85px;
   border: 0; 
+  text-align: center;
 }
