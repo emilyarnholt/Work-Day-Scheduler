@@ -20,3 +20,4 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Deployed Link
+https://emilyarnholt.github.io/Work-Day-Scheduler/
